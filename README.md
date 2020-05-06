@@ -3,4 +3,4 @@ Hello Git
 This is a beginner's tutorial
 
 
-This is new branch 1 change
+this is new-branch-2
